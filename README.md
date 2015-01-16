@@ -1,7 +1,2 @@
 # CSC_330-HW-1
 
-
-University of Victoria offers a minor in business with any other bachelor degree, and one of the course requirements is COM 220: Organizational Behavior. The course content revolves around the concepts of inner working and dynamics of an   organization. The course works involves exams and case studies. Due to many students in the course having never taken a commerce course many struggled with the case studies. The case studies include an in-depth analysis of a conflict within an organization. The explanation and introduction of the case study to first time students was unacceptable and incomplete. Due to many students lack of experience and knowledge in analyzing case studies, the introduction was scarce. 
-
-	The students will benefit greatly from a trial analysis of case study in lecture and setting guidelines to what the expectations and purpose of the case studies are. The trial would provide students with no experience in case studies with valuable training in analyzing case studies and would help all the students in class in having clear guidelines as to what is expected. Case studies in business courses are also heavily weighted with majority of the overall grade consisting of one case study. This discourages many students from participating in the entire course and focusing on just one assignment. Reducing the weight of the case study would encourage and incentivize students from attending and participating in more lectures and discussions. Another area of improvement for the course is 
-
