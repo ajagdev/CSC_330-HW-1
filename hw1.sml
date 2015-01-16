@@ -5,7 +5,8 @@ type DATE = {year:int, month:int, day: int}
 exception InvalidParameter
 
 (* This file is where your solutions go *)
-		     
+
+(* check if the d1 date is older than d2 date*)	      
 fun is_older(d1: DATE, d2: DATE): bool =
     if #year d1 = #year d2 andalso #month d1 = #month d2 andalso #day d1 = #day d2
     then false
