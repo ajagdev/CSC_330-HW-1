@@ -1,4 +1,4 @@
-(*  Abhi Jagdev - V00746164 *)
+(*  Abhi Jagdev *)
 (*  Assignment #1 *)
 
 type DATE = {year:int, month:int, day: int}
